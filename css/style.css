@@ -1,16 +1,8 @@
 
-
-
-
-
-
-.container {
-
+.index-container {
 display: flex;
-
-
 }
-.options {
+.options {  
     margin-left: auto;
     display: flex;
     flex-grow: .2;
@@ -35,3 +27,12 @@ display: flex;
 .about {
 text-align: center;
 }
+
+.service-title {
+    text-align: center;
+}
+.services{
+    display: flex;
+
+}
+
