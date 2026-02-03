@@ -65,13 +65,53 @@ padding-left: 10px;
     border-radius: 12px;
     background-color:green;
     color: white;
-    
-
-
 }
+
+
+
 .about {
-text-align: center;
+    background-color: #D4E9CF; 
 }
+
+
+.home {
+max-width: 800px;
+margin: 0 auto;
+}
+
+.home-title {
+    text-align: center;
+    font-size: 86px;
+    font-family: "Fraunces", serif;
+    margin-bottom: .1em;
+    color: #052812;
+}
+.expertise {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Inter', sans-serif; 
+    color: #052812;
+    
+}
+
+.about-me {
+    font-family: 'Inter', sans-serif; 
+    font: 30px;
+    color: #052812;
+    line-height: 25px;
+
+}
+
+.button2 {
+border-radius: 12px;
+ background-color: green;
+ color: white;
+ margin-left: 320px;
+ font-size: 19px;
+ padding: 10px 45px;
+ margin-top: 20px;
+}
+
 
 .service-title {
     text-align: center;
