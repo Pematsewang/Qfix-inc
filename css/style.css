@@ -113,13 +113,34 @@ border-radius: 12px;
 }
 
 
+.services {
+    background-color: #D4E9CF;
+}
+
 .service-title {
     text-align: center;
+    font-size: 68px;
+    color: #052812;
 }
-.services{
+.support{
     display: flex;
+    color: #052812;
 
 }
+
+.support h4 {
+    font-size: 37px;
+    font-family: "Fraunces", serif;
+}
+
+
+
+
+.repair {
+    text-align: center;
+}
+
+
 
 .contact {
     text-align: center;
